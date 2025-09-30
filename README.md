@@ -13,8 +13,8 @@ Atualmente, estou imerso em estudos para construir uma base sólida em lógica d
 - 🔭 Estou atualmente trabalhando em... projetos pessoais para praticar Python.
 - 🌱 Estou aprendendo... **Python, Git, Lógica de Programação e Estruturas de Dados**.
 - 🤔 Estou procurando ajuda com... dicas de projetos para iniciantes e melhores práticas.
-- 📫 Como me encontrar: [Seu LinkedIn (opcional)] ou pelo e-mail [Joaovsantos202578@gmail.com].
+- 📫 Como me encontrar: [https://www.linkedin.com/in/joao-vitor-santos-alves-a47073379] ou pelo e-mail [Joaovsantos202578@gmail.com].
 - 😄 Pronomes: [Ele/Dele].
-- 📚 Sou aluno na faculdade Cruzeiro do sul em ADS(analise e desenvolvimento de sistemas).</p>
+- 📚 Sou aluno na faculdade Cruzeiro do Sul Virtual em ADS(analise e desenvolvimento de sistemas).</p>
 
 ###
