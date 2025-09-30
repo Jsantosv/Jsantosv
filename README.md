@@ -5,6 +5,16 @@
 
 ###
 
-<p align="left">Olá Mundo!</p>
+<p align="left">Olá Mundo!, Me chamo Joao
+Sou um entusiasta de tecnologia e estou no início da minha jornada no mundo do desenvolvimento de software, com um foco especial em Python. 🐍
+
+Atualmente, estou imerso em estudos para construir uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento. Acredito que a melhor forma de aprender é colocando a mão na massa, por isso você encontrará aqui alguns dos meus primeiros projetos, exercícios e anotações de estudo.
+
+- 🔭 Estou atualmente trabalhando em... projetos pessoais para praticar Python.
+- 🌱 Estou aprendendo... **Python, Git, Lógica de Programação e Estruturas de Dados**.
+- 🤔 Estou procurando ajuda com... dicas de projetos para iniciantes e melhores práticas.
+- 📫 Como me encontrar: [Seu LinkedIn (opcional)] ou pelo e-mail [Joaovsantos202578@gmail.com].
+- 😄 Pronomes: [Ele/Dele].
+- 📚 Sou aluno na faculdade Cruzeiro do sul em ADS(analise e desenvolvimento de sistemas).</p>
 
 ###
